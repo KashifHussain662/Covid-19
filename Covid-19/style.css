@@ -1,0 +1,35 @@
+.banner-img{
+    background: url(./vb.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+.tree{
+    background: url(./tree.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+    color: rgb(10, 0, 0);
+
+}
+.tree h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+.i{
+    font-size: 130px;
+    position: relative;
+    left: 215px;
+    top: 100px;
+}
