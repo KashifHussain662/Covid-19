@@ -1,5 +1,5 @@
 .banner-img{
-    background: url(./vb.avif);
+    background: url(./images/vb.avif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8,7 +8,7 @@
     color: white;
 }
 .tree{
-    background: url(./tree.jpg);
+    background: url(./images/tree.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
